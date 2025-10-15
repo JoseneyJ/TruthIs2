@@ -19,7 +19,9 @@ Creating a community where the user intrusive thoughts they are afraid to share 
 * Connecting to blogs posted via API.
   - This error hinders me from fetching a blog by it's id and posting a blog.
 * Keeping a continuous connection to my cluster in Mongodb
-  - Hinders every function of the site as a hole.
+  - Hinders and delays every function of the site as a whole.
+
+** Currently looking into replacing MongoDB with PostgreSQL in efforts to avoid connection disruption and expand my experience with swapping databases mid-project **
   
 
 **Current Design -- User side** 
