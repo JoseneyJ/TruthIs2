@@ -1,6 +1,6 @@
 # TruthIs | Under Construction 
-A Christian confessional blog website where users can share their testimonies &amp; confessions in their walk with christ. 
-Creating a community where the user intrusive thoughts they are afraid to share with the church is safe & showing they are not alone 
+A Christian confessional blog website where users can share their testimonies &amp; confessions in their walk with Christ. 
+Creating a community where the user's intrusive thoughts they are afraid to share with the church is safe & showing they are not alone in their journey.
 
 ## Tasks
     - Responsive design for various devices.
